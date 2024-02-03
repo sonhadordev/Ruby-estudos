@@ -4,6 +4,7 @@ end
     a = "word"
     s.reverse!
     a.reverse!
+    9
     puts s
     puts a
       
