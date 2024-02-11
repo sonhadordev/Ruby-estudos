@@ -1,7 +1,7 @@
 
 # aqui esta o exemplo como converte uma string em numero use com sabedoria e revise não judie de vc
 #aqui como esta sendo executdo temos o valor "500" que esta na chave o to_i converte o valor em inteiro
-#to_f em float (flutuante numero real)
+#to_f em float ((flutuante numero real)
 #to_s em string e lembrando não seja idiota de tentar converter uma string em algum resultado aritimetico
 
   numero = "500" .to_i + 500
