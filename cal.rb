@@ -82,6 +82,6 @@ def exibir_menu
   
     print "Deseja fazer outra seleção? (S/N): "
     continuar = gets.chomp.downcase
-    break unless continuar == 's'
+    break unless continuar == 'ss'
   end
 

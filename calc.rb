@@ -5,5 +5,5 @@ number1 = gets.chomp. to_i
 print 'digite o segundo numero inteiro: '
 number2 = gets.chomp. to_i
 
-adicao = number1 + number2 
+adicao = number1 + number2 2
 puts "o resultado da adição entre os dois números e #{adicao}"
