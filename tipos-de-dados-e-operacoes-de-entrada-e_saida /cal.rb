@@ -7,7 +7,7 @@
   numero = "500" .to_i + 500
   numero1 = "200" .to_i * 500
   numero2 = "500" .to_i / 500
-  numero3 = "500" .to_i - 500
+  numero3 = "500" .to_i - 5000
 
   
     puts " o resultado do valor e adição #{numero} e multiplicação #{numero1} e a divisão #{numero2} e a subtração #{numero3}"
