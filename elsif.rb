@@ -8,4 +8,4 @@ else
     lunch = 'normal'
 end
 
-puts "lunch is #{lunch} today"
+puts "lunch is #{lunch} todayy"

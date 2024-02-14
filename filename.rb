@@ -13,4 +13,4 @@ end
 
 #exibição do resultado
 File.write(filename, palavras_modificadas.join(' '))
-puts "modificação concluida o arquivo #{filename}foi atualizado"
+puts "modificação concluida o arquivo #{filename}foi atualizadoo"

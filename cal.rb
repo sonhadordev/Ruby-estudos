@@ -4,7 +4,7 @@ def exibir_menu
     puts "2. multiplicação"
     puts "3. divisão"
     puts "4. subtração"
-    puts "5. sair do programa"
+    puts "5. sair do programaa"
 
   T
   

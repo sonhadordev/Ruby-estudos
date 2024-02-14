@@ -17,4 +17,4 @@ response = http.request(request)
 
 # Exibindo a resposta em formato JSON
 puts "Código de Status: #{response.code}"
-puts "Corpo da Resposta: #{JSON.parse(response.body)}"
+puts "Corpo da Respostaa: #{JSON.parse(response.body)}"
