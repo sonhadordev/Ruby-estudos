@@ -16,4 +16,6 @@ puts "acima do peso"
 puts "obesso"
     when 81..100
         puts "muito obesso"
+    else
+    
     end

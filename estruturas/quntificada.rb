@@ -1,0 +1,13 @@
+puts "digite o numero que você ira mutliplicar"
+numero = gets.chomp.to_i
+puts "o valor multiplicado por x1 = #{numero} retorna #{numero*1}"
+puts "o valor multiplicado por x2= #{numero} retorna #{numero*2}"
+puts "o valor multiplicado por x3= #{numero} retorna #{numero*3}"
+puts "o valor multplicado  por  x4= #{numero} retorna #{numero*4}"
+puts "o valor multiplicado por x5= #{numero} retorna #{numero*5}"
+puts "o valor multiplicado por x6= #{numero} retorna #{numero*6}"
+puts "o valor multiplicado por x7= #{numero} retorna #{numero*7}"
+puts "o valor multiplicado por x8= #{numero} retorna #{numero*8}"
+puts "o valor multiplicado por x9= #{numero} retorna #{numero*9}"
+puts "o valor multiplicado por x10= #{numero} retorna #{numero*10}"
+puts "o valor multiplicado por x10= #{numero} retorna #{numero*10}"
