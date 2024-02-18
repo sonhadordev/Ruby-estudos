@@ -5,5 +5,5 @@ nome = gets.chomp
 puts "digite o seu nome."
 
 unless nome.empty?
-    puts "ola #{nome} seja bem vindo(A)"
+    puts "ola #{nome} seja bem vindo(a)"
 end
