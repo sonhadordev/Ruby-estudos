@@ -5,7 +5,7 @@ case mes
 when  1   
     puts " janeiro tem 31 dias"
 when 2
-puts "fevereiro tem 28 diass"
+puts "fevereiro tem 28 diasss"
 when 3
 puts " março tem 31 dias"
 when 4
