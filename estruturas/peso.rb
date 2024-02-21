@@ -5,7 +5,7 @@ if imc < 0 || imc> 39.99
 puts "verique se o valor esta correto"
 
 elsif imc <= 17 
-    puts "abaixo do peso"
+    puts "abaixo do pesoo"
         
 elsif imc <= 18.49 
             puts "abaixo do peso"
