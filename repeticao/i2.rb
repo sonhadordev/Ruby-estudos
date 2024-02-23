@@ -8,4 +8,4 @@ while condicao
 condicao = false
     end
 end
-puts "#{numero} e multiplo de 5!"
+puts "#{numero} e multiplo de 5"
