@@ -2,7 +2,7 @@ print 'digite o primeiro numero inteiro'
  
 number1 = gets.chomp. to_i
 
-print 'digite o segundo numero inteiro: '
+print 'digite o segundo numero inteiro:: '
 number2 = gets.chomp. to_i
 
 adicao = number1 + number2 2
