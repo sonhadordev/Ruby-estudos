@@ -6,17 +6,16 @@ puts "nota invalida digite de 0 a 100"
 
 elsif nota <= 20
         puts "conceito E"
-    
+
 elsif nota <= 40
     puts "puts conceito D"
-    
+
 elsif nota <= 60
             puts "nota conceito C"
-        
+
 elsif nota <= 80
-                "nota conceito B"
-            
+                "nota conceitoB"
+
 elsif
                     puts "conceito A"
                 end
-        
