@@ -14,7 +14,7 @@ elsif nota <= 60
             puts "nota conceito C"
 
 elsif nota <= 80
-                "nota conceitoBB"
+                "nota conceitoBBB"
 
 elsif
                     puts "conceito A"
