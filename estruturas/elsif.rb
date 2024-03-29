@@ -18,4 +18,4 @@ elsif nota <= 80
 
 elsif
                     puts "conceito A"
-                endd
+                enddd
